@@ -1,0 +1,16 @@
+{
+  "name": "my-sample-npm-app",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-concat": "2.6.1",
+    "gulp-cssmin": "0.1.7",
+    "gulp-uglify": "2.0.1",
+    "rimraf": "2.6.1"
+  },
+  "dependencies": {
+    "flag-icon-css": "^3.0.0",
+    "font-awesome": "^4.7.0"
+  }
+}
